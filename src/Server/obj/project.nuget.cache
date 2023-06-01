@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7l7nmfE3tzrLEt0H8uAtALC46AyVKUyBJuUvxIkhh1E8dWZ2iQLqT0x7K6nMwas/O0CuSKMDvmmyJkGlPJtjSg==",
+  "dgSpecHash": "t8Sp5ZDtxdt6PYhXUJXaTgjCCRxz+QfdinWC4Rv8ytyOmPtWdhfLGC99rBZDmlfXBdFtreHc3Mbdv66DxyCKKw==",
   "success": true,
   "projectFilePath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Server/BlazorApp.Server.csproj",
   "expectedPackageFiles": [
+    "/home/jkmdroid/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/home/jkmdroid/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/jkmdroid/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/home/jkmdroid/.nuget/packages/microsoft.aspnetcore.authorization/6.0.7/microsoft.aspnetcore.authorization.6.0.7.nupkg.sha512",
     "/home/jkmdroid/.nuget/packages/microsoft.aspnetcore.components/6.0.7/microsoft.aspnetcore.components.6.0.7.nupkg.sha512",
     "/home/jkmdroid/.nuget/packages/microsoft.aspnetcore.components.analyzers/6.0.7/microsoft.aspnetcore.components.analyzers.6.0.7.nupkg.sha512",

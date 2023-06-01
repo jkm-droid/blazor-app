@@ -1,0 +1,15 @@
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/bin/Debug/net6.0/Application.deps.json
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/bin/Debug/net6.0/Application.dll
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/bin/Debug/net6.0/Application.pdb
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/bin/Debug/net6.0/BlazorApp.Shared.dll
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/bin/Debug/net6.0/BlazorApp.Shared.pdb
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/obj/Debug/net6.0/Application.csproj.AssemblyReference.cache
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/obj/Debug/net6.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/obj/Debug/net6.0/Application.AssemblyInfoInputs.cache
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/obj/Debug/net6.0/Application.AssemblyInfo.cs
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/obj/Debug/net6.0/Application.csproj.CoreCompileInputs.cache
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/obj/Debug/net6.0/Application.csproj.CopyComplete
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/obj/Debug/net6.0/Application.dll
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/obj/Debug/net6.0/refint/Application.dll
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/obj/Debug/net6.0/Application.pdb
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/obj/Debug/net6.0/ref/Application.dll

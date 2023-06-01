@@ -1,6 +1,6 @@
-namespace Core.Application.Assembly;
+namespace Application.Assembly;
 
-public static class AssemblyReference
+public static class AppAssemblyReference
 {
     
 }

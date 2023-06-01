@@ -4,6 +4,69 @@
     "/home/jkmdroid/DotNetProjects/BlazorApp/src/Server/BlazorApp.Server.csproj": {}
   },
   "projects": {
+    "/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/Application.csproj",
+        "packagesPath": "/home/jkmdroid/.nuget/packages/",
+        "outputPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jkmdroid/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/BlazorApp.Shared.csproj": {
+                "projectPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/BlazorApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/Client.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -173,6 +236,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/Application.csproj": {
+                "projectPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Application/Application.csproj"
+              },
               "/home/jkmdroid/DotNetProjects/BlazorApp/src/Client/BlazorApp.Client.csproj": {
                 "projectPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Client/BlazorApp.Client.csproj"
               },
@@ -192,6 +258,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[6.0.7, )"

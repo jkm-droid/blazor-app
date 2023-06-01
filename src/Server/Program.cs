@@ -1,4 +1,7 @@
-﻿using BlazorApp.Server.Extensions;
+﻿using System.Reflection;
+using Application.Assembly;
+using BlazorApp.Server.Extensions;
+using MediatR;
 using Microsoft.AspNetCore.Hosting.StaticWebAssets;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +13,7 @@ StaticWebAssetsLoader.UseStaticWebAssets(builder.Environment, builder.Configurat
 builder.Services.AddCorPolicies();
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+builder.Services.AddMediatR(cfg=>cfg.RegisterServicesFromAssemblies(typeof(AppAssemblyReference).Assembly));
 
 var app = builder.Build();
 
