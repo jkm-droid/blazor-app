@@ -1,0 +1,15 @@
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/bin/Debug/net6.0/Client.Infrastructure.deps.json
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/bin/Debug/net6.0/Client.Infrastructure.dll
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/bin/Debug/net6.0/Client.Infrastructure.pdb
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/bin/Debug/net6.0/BlazorApp.Shared.dll
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/bin/Debug/net6.0/BlazorApp.Shared.pdb
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/obj/Debug/net6.0/Client.Infrastructure.csproj.AssemblyReference.cache
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/obj/Debug/net6.0/Client.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/obj/Debug/net6.0/Client.Infrastructure.AssemblyInfoInputs.cache
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/obj/Debug/net6.0/Client.Infrastructure.AssemblyInfo.cs
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/obj/Debug/net6.0/Client.Infrastructure.csproj.CoreCompileInputs.cache
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/obj/Debug/net6.0/Client.Infrastructure.csproj.CopyComplete
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/obj/Debug/net6.0/Client.Infrastructure.dll
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/obj/Debug/net6.0/refint/Client.Infrastructure.dll
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/obj/Debug/net6.0/Client.Infrastructure.pdb
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/obj/Debug/net6.0/ref/Client.Infrastructure.dll

@@ -1,0 +1,12 @@
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/bin/Debug/net6.0/BlazorApp.Shared.deps.json
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/bin/Debug/net6.0/BlazorApp.Shared.dll
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/bin/Debug/net6.0/BlazorApp.Shared.pdb
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/obj/Debug/net6.0/BlazorApp.Shared.csproj.AssemblyReference.cache
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/obj/Debug/net6.0/BlazorApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/obj/Debug/net6.0/BlazorApp.Shared.AssemblyInfoInputs.cache
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/obj/Debug/net6.0/BlazorApp.Shared.AssemblyInfo.cs
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/obj/Debug/net6.0/BlazorApp.Shared.csproj.CoreCompileInputs.cache
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/obj/Debug/net6.0/BlazorApp.Shared.dll
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/obj/Debug/net6.0/refint/BlazorApp.Shared.dll
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/obj/Debug/net6.0/BlazorApp.Shared.pdb
+/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/obj/Debug/net6.0/ref/BlazorApp.Shared.dll

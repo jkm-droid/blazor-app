@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uugLCIoFJorrn4YiSZfsW8ykEYSusMYTWwgZ9r2i3PbeYqHwh5kTuI3MKcwXj0AOL7kyn6VaekVaKrUmOiYaZg==",
+  "success": true,
+  "projectFilePath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/BlazorApp.Shared.csproj",
+  "expectedPackageFiles": [
+    "/home/jkmdroid/.nuget/packages/microsoft.aspnetcore.webutilities/2.1.1/microsoft.aspnetcore.webutilities.2.1.1.nupkg.sha512",
+    "/home/jkmdroid/.nuget/packages/microsoft.extensions.primitives/2.1.1/microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "/home/jkmdroid/.nuget/packages/microsoft.net.http.headers/2.1.1/microsoft.net.http.headers.2.1.1.nupkg.sha512",
+    "/home/jkmdroid/.nuget/packages/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/home/jkmdroid/.nuget/packages/system.memory/4.5.1/system.memory.4.5.1.nupkg.sha512",
+    "/home/jkmdroid/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.1/system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "/home/jkmdroid/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

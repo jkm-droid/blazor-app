@@ -1,0 +1,283 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jkmdroid/DotNetProjects/BlazorApp/src/Server/BlazorApp.Server.csproj": {}
+  },
+  "projects": {
+    "/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/Client.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/Client.Infrastructure.csproj",
+        "projectName": "Client.Infrastructure",
+        "projectPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/Client.Infrastructure.csproj",
+        "packagesPath": "/home/jkmdroid/.nuget/packages/",
+        "outputPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jkmdroid/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/BlazorApp.Shared.csproj": {
+                "projectPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/BlazorApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/jkmdroid/DotNetProjects/BlazorApp/src/Client/BlazorApp.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Client/BlazorApp.Client.csproj",
+        "projectName": "BlazorApp.Client",
+        "projectPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Client/BlazorApp.Client.csproj",
+        "packagesPath": "/home/jkmdroid/.nuget/packages/",
+        "outputPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jkmdroid/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/Client.Infrastructure.csproj": {
+                "projectPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Client.Infrastructure/Client.Infrastructure.csproj"
+              },
+              "/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/BlazorApp.Shared.csproj": {
+                "projectPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/BlazorApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MudBlazor": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.8, 6.0.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/home/jkmdroid/DotNetProjects/BlazorApp/src/Server/BlazorApp.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Server/BlazorApp.Server.csproj",
+        "projectName": "BlazorApp.Server",
+        "projectPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Server/BlazorApp.Server.csproj",
+        "packagesPath": "/home/jkmdroid/.nuget/packages/",
+        "outputPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Server/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jkmdroid/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/jkmdroid/DotNetProjects/BlazorApp/src/Client/BlazorApp.Client.csproj": {
+                "projectPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Client/BlazorApp.Client.csproj"
+              },
+              "/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/BlazorApp.Shared.csproj": {
+                "projectPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/BlazorApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/BlazorApp.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/BlazorApp.Shared.csproj",
+        "projectName": "BlazorApp.Shared",
+        "projectPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/BlazorApp.Shared.csproj",
+        "packagesPath": "/home/jkmdroid/.nuget/packages/",
+        "outputPath": "/home/jkmdroid/DotNetProjects/BlazorApp/src/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jkmdroid/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.WebUtilities": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
